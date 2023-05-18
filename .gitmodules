@@ -1,0 +1,3 @@
+[submodule "beauty/htui"]
+	path = beauty/htui
+	url = https://gitee.com/htai-open/HTEffect_AndroidX_Android.git
