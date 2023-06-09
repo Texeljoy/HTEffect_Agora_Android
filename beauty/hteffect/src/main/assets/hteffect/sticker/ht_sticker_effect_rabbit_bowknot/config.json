@@ -1,0 +1,73 @@
+{
+    "HTSMGroupList": [{
+            "dirName": "p_saihong",
+            "type": 3,
+            "trackPart": 2,
+            "xOffset": 0.01,
+            "yOffset": -0.11,
+            "widthOffset": 1.89,
+            "heightOffset": 0,
+            "imageNumber": 20,
+            "scene": 0,
+            "imageWidth": 400,
+            "imageHeight": 680,
+            "triggerType": 0
+        },
+        {
+            "dirName": "p_flower",
+            "type": 0,
+            "trackPart": 0,
+            "xOffset": 0,
+            "yOffset": 0,
+            "widthOffset": 1,
+            "heightOffset": 1,
+            "imageNumber": 20,
+            "scene": 0,
+            "imageWidth": 400,
+            "imageHeight": 680,
+            "triggerType": 0
+        },
+        {
+            "dirName": "p_ear",
+            "type": 3,
+            "trackPart": 2,
+            "xOffset": 0,
+            "yOffset": 0,
+            "widthOffset": 1.89,
+            "heightOffset": 0,
+            "imageNumber": 20,
+            "scene": 0,
+            "imageWidth": 400,
+            "imageHeight": 680,
+            "triggerType": 0
+        },
+        {
+            "dirName": "p_bubble",
+            "type": 3,
+            "trackPart": 9,
+            "xOffset": 0.05,
+            "yOffset": 0.31,
+            "widthOffset": 2.19,
+            "heightOffset": 0,
+            "imageNumber": 20,
+            "scene": 0,
+            "imageWidth": 400,
+            "imageHeight": 680,
+            "triggerType": 0
+        },
+        {
+            "dirName": "p_bowknot",
+            "type": 3,
+            "trackPart": 2,
+            "xOffset": -0.4,
+            "yOffset": -1.14,
+            "widthOffset": -0.19,
+            "heightOffset": 0,
+            "imageNumber": 1,
+            "scene": 0,
+            "imageWidth": 112,
+            "imageHeight": 96,
+            "triggerType": 0
+        }
+    ]
+}
