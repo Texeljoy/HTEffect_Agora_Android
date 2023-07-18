@@ -24,7 +24,7 @@ public class BeautyHTEffectImpl implements IBeautyHTEffect {
     }
 
     private void initSdk(Context context) {
-        mHteffect.initHTEffect(context.getApplicationContext(), "741c1d821d6a4141ba56599f1660367c", new InitCallback() {
+        mHteffect.initHTEffect(context.getApplicationContext(), "YOUR_APP_ID", new InitCallback() {
             @Override public void onInitSuccess() {
 
             }
@@ -57,9 +57,9 @@ public class BeautyHTEffectImpl implements IBeautyHTEffect {
             return;
         }
         if (enable) {
-            mHteffect.setBeauty(HTBeautyEnum.HTBeautyClearSmoothing.getValue(), 100);// 磨皮 100
-            mHteffect.setBeauty(HTBeautyEnum.HTBeautySkinWhitening.getValue(), 100);// 美白 100
-            mHteffect.setBeauty(HTBeautyEnum.HTBeautyImageSharpness.getValue(), 100);// 清晰 100
+            mHteffect.setBeauty(HTBeautyEnum.HTBeautyClearSmoothing.getValue(), 70);// 磨皮 100
+            mHteffect.setBeauty(HTBeautyEnum.HTBeautySkinWhitening.getValue(), 70);// 美白 100
+            mHteffect.setBeauty(HTBeautyEnum.HTBeautyImageSharpness.getValue(), 70);// 清晰 100
         } else {
             mHteffect.setBeauty(HTBeautyEnum.HTBeautyClearSmoothing.getValue(), 0);// 磨皮 0
             mHteffect.setBeauty(HTBeautyEnum.HTBeautySkinWhitening.getValue(), 0);// 美白 0
