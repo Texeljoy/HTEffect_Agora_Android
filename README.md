@@ -37,11 +37,6 @@ You are all set. Now connect your Android device and run the project.
 ### Beauty Configuration
 This project contains third-party beauty integration examples, which are disabled by default. If you need to enable compilation and use, please refer to the corresponding configuration guide.
 
-| Beauty module |          Configuration Guide          |
-|:-------------:|:-------------------------------------:|
-|   SenseTime   | [README](beauty/sense-time/README.md) |
-|   FaceUnity   | [README](beauty/faceunity/README.md)  |
-|   ByteDance   | [README](beauty/bytedance/README.md)  |
 
 
 ### For Agora Extension Developers
